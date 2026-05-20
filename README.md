@@ -171,8 +171,8 @@ python-multipart==0.0.12
 
 ## 👥 Authors
 
-| Name | GitHub |
-|------|--------|
+| Name | 
+|------|
 | **Rekhami Abdessamad** |
 | **Fatima Tildi** |
 | **Ichraq Majid** |
