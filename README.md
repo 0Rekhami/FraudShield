@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Preview
-
-> *Dashboard — Analyze, History, and Statistics sections*
-
----
-
 ## 📁 Project Structure
 
 ```
